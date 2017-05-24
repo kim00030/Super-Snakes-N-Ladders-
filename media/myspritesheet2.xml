@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:824c78c002bae94a6e9551b461529959:b8c4d40b1c8fa6e5e76407b0cb585f79:730cf19fce812821bbb8fa217fff9745$ -->
+<TextureAtlas imagePath="myspritesheet2.png">
+    <SubTexture name="areyousure" x="2" y="713" width="380" height="73"/>
+    <SubTexture name="avatar1_cry" x="2" y="198" width="128" height="128"/>
+    <SubTexture name="avatar1_grin" x="132" y="198" width="128" height="128"/>
+    <SubTexture name="avatar2_cry" x="261" y="68" width="128" height="128"/>
+    <SubTexture name="avatar2_grin" x="131" y="68" width="128" height="128"/>
+    <SubTexture name="avatar3_cry" x="2" y="328" width="128" height="128"/>
+    <SubTexture name="avatar3_grin" x="262" y="198" width="128" height="128"/>
+    <SubTexture name="avatar99_cry" x="132" y="328" width="128" height="128"/>
+    <SubTexture name="avatar99_grin" x="262" y="328" width="128" height="128"/>
+    <SubTexture name="avatarparticle" x="36" y="2" width="64" height="64"/>
+    <SubTexture name="backbutton" x="204" y="598" width="200" height="51"/>
+    <SubTexture name="donebutton" x="2" y="598" width="200" height="51"/>
+    <SubTexture name="egg" x="2" y="458" width="136" height="138"/>
+    <SubTexture name="exitbutton" x="140" y="458" width="142" height="60"/>
+    <SubTexture name="explosion" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="frame" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="nextbutton" x="284" y="458" width="200" height="51"/>
+    <SubTexture name="panel" x="2" y="1605" width="435" height="421"/>
+    <SubTexture name="panel2" x="2" y="1182" width="435" height="421"/>
+    <SubTexture name="playwithdevicebutton" x="2" y="788" width="407" height="60"/>
+    <SubTexture name="questionicon" x="2" y="68" width="127" height="127"/>
+    <SubTexture name="star" x="102" y="2" width="64" height="64"/>
+    <SubTexture name="textcopy1" x="2" y="1024" width="428" height="156"/>
+    <SubTexture name="textcopy2" x="2" y="937" width="412" height="85"/>
+    <SubTexture name="textcopy3" x="2" y="850" width="412" height="85"/>
+    <SubTexture name="tilewithbomb" x="168" y="2" width="80" height="60"/>
+    <SubTexture name="tilewithdistortedbomb" x="332" y="2" width="80" height="60"/>
+    <SubTexture name="tilewithshield" x="250" y="2" width="80" height="60"/>
+    <SubTexture name="twoplayersbutton" x="2" y="651" width="255" height="60"/>
+</TextureAtlas>
